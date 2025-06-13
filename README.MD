@@ -1,0 +1,1 @@
+This is a python program that can code and is an AI. This AI is similar to my other project (Chatbot AI), but this one does not reply to anything except code requests and only codes, this AI is also much better at code than my other AI.
